@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there\! I'm Aryan Shrivastava 👋
 
-<!--
-**Aryan-Shrivastava-KIIT/Aryan-Shrivastava-KIIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science & Engineering** student at KIIT (2025-2029) who loves solving problems through code and competing in the virtual arena.
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Quick Overview
+
+  * **🔭 Currently:** Leveling up my skills in **Competitive Programming** and **Python**.
+  * **🌱 Learning:** Advanced DSA and the mechanics of **Robotics**.
+  * **⚡ Fun Fact:** I'm a former school **Rope Pulling** champion and a college **Valorant** runner-up.
+
+-----
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+
+**Tools & Interests:**   
+
+-----
+
+### 📫 Connect with me
+
+  * **LinkedIn:** [Aryan Shrivastava](https://www.google.com/search?q=https://www.linkedin.com/in/aryan-shrivastava-434219308)
+  * **Email:** [aryan.as2304@gmail.com](mailto:aryan.as2304@gmail.com)
+
+-----
+
+*“Precision in code, strategy in game.”*
