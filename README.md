@@ -22,7 +22,7 @@ I am a **Computer Science & Engineering** student at KIIT (2025-2029) who loves 
 
 ### 📫 Connect with me
 
-  * **LinkedIn:** [Aryan Shrivastava](https://www.google.com/search?q=https://www.linkedin.com/in/aryan-shrivastava-434219308)
+  * **LinkedIn:** [Aryan Shrivastava](https://www.linkedin.com/in/aryanshrivastava0001/)
   * **Email:** [aryan.as2304@gmail.com](mailto:aryan.as2304@gmail.com)
 
 -----
