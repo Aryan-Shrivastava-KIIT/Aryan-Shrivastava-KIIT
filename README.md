@@ -14,9 +14,9 @@ I am a **Computer Science & Engineering** student at KIIT (2025-2029) who loves 
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
+**Languages:** C, Python, HTML, CSS
 
-**Tools & Interests:**   
+**Tools & Interests:**  Ubuntu (WSL), VS Code, Competitive Programming, Marketing, AutoCAD  
 
 -----
 
